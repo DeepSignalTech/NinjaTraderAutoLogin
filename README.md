@@ -11,3 +11,5 @@ Optionally it can include a third parameter if the NinjaTrader.exe is not at the
 Change the "C:\Program Files\NinjaTrader 8\bin\NinjaTrader.exe" to the installation location.
 
 We created a Windows shortcut for NTLogin in which we modified the Target field in the Shortcut tab to include the additional parameters. Now just double click on the shortcut and you can be automatically logged into NinjaTrader without having to manually type in your password every time.
+
+** Please note the LOGIN_NAME is currently only a placeholder for future development in case we need it. The application assumes the login name is already saved in the Login Dialog. The application only runs NinjaTrader and pastes the password from the arguments into the password text box.
