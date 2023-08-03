@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTLogin", "NTLogin\NTLogin.csproj", "{BF880E46-8F54-465F-8C2C-F73BB52A52B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF880E46-8F54-465F-8C2C-F73BB52A52B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF880E46-8F54-465F-8C2C-F73BB52A52B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF880E46-8F54-465F-8C2C-F73BB52A52B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF880E46-8F54-465F-8C2C-F73BB52A52B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1700B2DC-49F8-4727-9178-D20A6A4DEE79}
+	EndGlobalSection
+EndGlobal
